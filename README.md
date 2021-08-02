@@ -12,4 +12,7 @@ Here's where oyu can have a look at the website:
 3. after that you can even add new restaurants or search for any that are currently posted on the site.
 4. Enjoy!!!!!!!!
 
+# Tech Stack: Node.js, CSS, HTML, Bootstrap, Stripe API, Heroku, MongoDB.
+
+To visit the web application:
 https://hangout-app-mvit.herokuapp.com/
